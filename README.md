@@ -1,8 +1,7 @@
 # React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Website Link - https://flavor-fusion-18.netlify.app/
+What I learnt from this project:
+1. Setting up a new React project with create React App
+2. Creating reusable components for menu items, featured dishes, and more
+3. Implementing responsive design principle for a seamless user experience on desktop and mobile devices
+4. Fetching and displaying dynamic data using react hooks and state management
